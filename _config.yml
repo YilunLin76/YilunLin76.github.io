@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "YILUN LIN / Academic Homepage"
 title_separator          : "-"
-name                     : &name "Yilun Lin"
-description              : &description "personal description"
-url                      : https://yilunlin76.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : "Yilun Lin"
+description              : "My research interest lies in topological quantum field theory, conformal field theory, and string theory."
+url                      : https://yilunlin76.github.io
+baseurl                  : "" 
+repository               : "YilunLin76/YilunLin76.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
